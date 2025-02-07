@@ -84,7 +84,7 @@ This project is licensed under the **ISC License**. Use, modify, and share it fr
 
 ## 💌 Connect
 
-Love it? Found a bug (ironic, right?)? **Open an issue** or connect with me on GitHub: [MohdAqdasAsim](https://github.com/MohdAqdasAsim)
+Love it? Found a bug (ironic, right?)? **Open an issue** or connect with me on LinkedIn: [MohdAqdasAsim](https://www.linkedin.com/in/mohd-aqdas-asim)
 
 ---
 
