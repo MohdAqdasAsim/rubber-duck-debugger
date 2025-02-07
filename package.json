@@ -1,0 +1,29 @@
+{
+    "name": "rubber-duck-debugger",
+    "version": "1.0.0",
+    "description": "Debugging Wisdom from a Rubber Duck 🦆",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+      "rubber-duck-debugger": "index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MohdAqdasAsim/rubber-duck-debugger.git"
+    },
+    "keywords": [
+      "rubber-duck-debugger"
+    ],
+    "author": "Mohd Aqdas Asim",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MohdAqdasAsim/rubber-duck-debugger/issues"
+    },
+    "homepage": "https://github.com/MohdAqdasAsim/rubber-duck-debugger#readme",
+    "dependencies": {
+      "chalk": "^4.1.2",
+      "inquirer": "^8.2.6"
+    }
+  }
